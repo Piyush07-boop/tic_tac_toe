@@ -5,7 +5,7 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-[Play Tic Tac Toe](YOUR_LIVE_DEMO_LINK)
+[Play Tic Tac Toe](tictactoe-theta-six.vercel.app)
 
 
 ## ✨ Features
